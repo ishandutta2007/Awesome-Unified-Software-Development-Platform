@@ -55,7 +55,7 @@ Below is a comparison of leading commercial software development platforms, **so
 
 ## 🌟 Open-Source GitHub Projects & Self-Hosted Alternatives
 
-Discover top self-hosted and open-source platforms for code hosting, CI/CD, GitOps, and issue tracking. **Sorted in descending order by GitHub Stars_Count** ⭐️:
+Discover top self-hosted and open-source platforms for code hosting, CI/CD, GitOps, and issue tracking. **Sorted in descending order by GitHub_Stars_Count** ⭐️:
 
 1. **[Plane](https://github.com/makeplane/plane)** — **60,409 stars**  
    [![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social)](https://github.com/makeplane/plane/stargazers)  
