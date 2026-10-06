@@ -55,82 +55,82 @@ Below is a comparison of leading commercial software development platforms, **so
 
 ## 🌟 Open-Source GitHub Projects & Self-Hosted Alternatives
 
-Discover top self-hosted and open-source platforms for code hosting, CI/CD, GitOps, and issue tracking. **Sorted in descending order by GitHub Star Count** ⭐️:
+Discover top self-hosted and open-source platforms for code hosting, CI/CD, GitOps, and issue tracking. **Sorted in descending order by GitHub Stars_Count** ⭐️:
 
 1. **[Plane](https://github.com/makeplane/plane)** — **60,409 stars**  
-   [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social)](https://github.com/makeplane/plane/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social)](https://github.com/makeplane/plane/stargazers)  
    🔥 Modern open-source project management platform and Jira alternative. Features AI-native Work Items, Cycles, Modules, Pages, and custom Kanban views.
 
 2. **[Gitea](https://github.com/go-gitea/gitea)** — **58,314 stars**  
-   [![GitHub stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social)](https://github.com/go-gitea/gitea/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social)](https://github.com/go-gitea/gitea/stargazers)  
    🍵 Ultra-lightweight, fast, self-hosted Git service written in Go. Provides pull requests, issues, wikis, packages, and built-in Actions-style CI.
 
 3. **[Gogs](https://github.com/gogs/gogs)** — **47,858 stars**  
-   [![GitHub stars](https://img.shields.io/github/stars/gogs/gogs?style=social)](https://github.com/gogs/gogs/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/gogs/gogs?style=social)](https://github.com/gogs/gogs/stargazers)  
    ⚡ Painless self-hosted Git service. Designed for low resource footprint, running on Windows, macOS, Linux, and ARM architectures like Raspberry Pi.
 
 4. **[Drone CI](https://github.com/harness/drone)** — **38,487 stars**  
-   [![GitHub stars](https://img.shields.io/github/stars/harness/drone?style=social)](https://github.com/harness/drone/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/harness/drone?style=social)](https://github.com/harness/drone/stargazers)  
    📦 Container-native continuous integration platform built on Docker. Configured via simple YAML pipeline declarations.
 
 5. **[Jenkins](https://github.com/jenkinsci/jenkins)** — **26,618 stars**  
-   [![GitHub stars](https://img.shields.io/github/stars/jenkinsci/jenkins?style=social)](https://github.com/jenkinsci/jenkins/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/jenkinsci/jenkins?style=social)](https://github.com/jenkinsci/jenkins/stargazers)  
    🏗️ The legendary extensible open-source automation server. Supported by thousands of plugins for building, deploying, and automating software projects.
 
 6. **[GitLab Community Edition](https://github.com/gitlabhq/gitlabhq)** — **24,555 stars**  
-   [![GitHub stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq?style=social)](https://github.com/gitlabhq/gitlabhq/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq?style=social)](https://github.com/gitlabhq/gitlabhq/stargazers)  
    🦊 Complete self-managed DevOps platform containing Git SCM, powerful CI/CD pipelines, container registry, and issue tracking in a single codebase.
 
 7. **[Argo CD](https://github.com/argoproj/argo-cd)** — **24,332 stars**  
-   [![GitHub stars](https://img.shields.io/github/stars/argoproj/argo-cd?style=social)](https://github.com/argoproj/argo-cd/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/argoproj/argo-cd?style=social)](https://github.com/argoproj/argo-cd/stargazers)  
    🐙 Declarative GitOps continuous delivery tool for Kubernetes. Continuously monitors live clusters and reconciles state with Git repositories.
 
 8. **[Dagger](https://github.com/dagger/dagger)** — **16,319 stars**  
-   [![GitHub stars](https://img.shields.io/github/stars/dagger/dagger?style=social)](https://github.com/dagger/dagger/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/dagger/dagger?style=social)](https://github.com/dagger/dagger/stargazers)  
    🗡️ Programmable CI/CD engine that lets developers define build & delivery pipelines as code in Python, Go, or TypeScript running in containers.
 
 9. **[OpenProject](https://github.com/opf/openproject)** — **16,319 stars**  
-   [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social)](https://github.com/opf/openproject/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/opf/openproject?style=social)](https://github.com/opf/openproject/stargazers)  
    📋 Leading open-source project management software supporting classic Gantt chart project planning, Agile boards, time tracking, and cost reporting.
 
 10. **[OneDev](https://github.com/theonedev/onedev)** — **15,278 stars**  
-    [![GitHub stars](https://img.shields.io/github/stars/theonedev/onedev?style=social)](https://github.com/theonedev/onedev/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/theonedev/onedev?style=social)](https://github.com/theonedev/onedev/stargazers)  
     ⚡ All-in-one autonomous DevOps platform with Git hosting, robust visual CI/CD pipeline generator, issue tracking, and code intelligence.
 
 11. **[Phabricator](https://github.com/phacility/phabricator)** — **12,292 stars**  
-    [![GitHub stars](https://img.shields.io/github/stars/phacility/phabricator?style=social)](https://github.com/phacility/phabricator/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/phacility/phabricator?style=social)](https://github.com/phacility/phabricator/stargazers)  
     🛠️ Suite of open-source web applications for code review (Differential), repository hosting, bug tracking (Maniphest), and project communication.
 
 12. **[Sourcegraph Open Source](https://github.com/sourcegraph/sourcegraph-public-snapshot)** — **10,294 stars**  
-    [![GitHub stars](https://img.shields.io/github/stars/sourcegraph/sourcegraph-public-snapshot?style=social)](https://github.com/sourcegraph/sourcegraph-public-snapshot/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/sourcegraph/sourcegraph-public-snapshot?style=social)](https://github.com/sourcegraph/sourcegraph-public-snapshot/stargazers)  
     🔍 Code search and intelligence engine supporting cross-repository navigation, code graph analysis, and structural search.
 
 13. **[GitBucket](https://github.com/gitbucket/gitbucket)** — **9,402 stars**  
-    [![GitHub stars](https://img.shields.io/github/stars/gitbucket/gitbucket?style=social)](https://github.com/gitbucket/gitbucket/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/gitbucket/gitbucket?style=social)](https://github.com/gitbucket/gitbucket/stargazers)  
     🪣 Easy-to-install GitHub clone powered by Scala. Features repository viewing, pull requests, issues, wiki, and plugin expansion.
 
 14. **[Tekton Pipelines](https://github.com/tektoncd/pipeline)** — **9,075 stars**  
-    [![GitHub stars](https://img.shields.io/github/stars/tektoncd/pipeline?style=social)](https://github.com/tektoncd/pipeline/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/tektoncd/pipeline?style=social)](https://github.com/tektoncd/pipeline/stargazers)  
     🧩 Cloud-native Kubernetes CRD pipeline framework for creating composable, multi-stage continuous integration and delivery tasks.
 
 15. **[Flux CD](https://github.com/fluxcd/flux2)** — **8,438 stars**  
-    [![GitHub stars](https://img.shields.io/github/stars/fluxcd/flux2?style=social)](https://github.com/fluxcd/flux2/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/fluxcd/flux2?style=social)](https://github.com/fluxcd/flux2/stargazers)  
     ⚡ Open and extensible continuous delivery solution for Kubernetes, keeping clusters in sync with configuration sources like Git and Helm.
 
 16. **[Woodpecker CI](https://github.com/woodpecker-ci/woodpecker)** — **7,956 stars**  
-    [![GitHub stars](https://img.shields.io/github/stars/woodpecker-ci/woodpecker?style=social)](https://github.com/woodpecker-ci/woodpecker/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/woodpecker-ci/woodpecker?style=social)](https://github.com/woodpecker-ci/woodpecker/stargazers)  
     🪵 Community-driven fork of Drone CI. Lightweight Docker-based continuous integration engine designed for simple deployment.
 
 17. **[Redmine](https://github.com/redmine/redmine)** — **6,042 stars**  
-    [![GitHub stars](https://img.shields.io/github/stars/redmine/redmine?style=social)](https://github.com/redmine/redmine/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/redmine/redmine?style=social)](https://github.com/redmine/redmine/stargazers)  
     🔴 Flexible project management web application written in Ruby on Rails with multi-project support, Gantt charts, and role-based access.
 
 18. **[Taiga](https://github.com/taigaio/taiga-back)** — **855 stars**  
-    [![GitHub stars](https://img.shields.io/github/stars/taigaio/taiga-back?style=social)](https://github.com/taigaio/taiga-back/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/taigaio/taiga-back?style=social)](https://github.com/taigaio/taiga-back/stargazers)  
     🐯 Open-source Agile project management platform for Scrum and Kanban teams with backlog prioritization and sprint tracking.
 
 19. **[Gerrit](https://github.com/gerrit-review/gerrit)** — **414 stars**  
-    [![GitHub stars](https://img.shields.io/github/stars/gerrit-review/gerrit?style=social)](https://github.com/gerrit-review/gerrit/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/gerrit-review/gerrit?style=social)](https://github.com/gerrit-review/gerrit/stargazers)  
     🔍 Web-based code review and project management tool designed specifically for Git repositories at enterprise scale.
 
 ---
